@@ -1,0 +1,22 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "tictactoe",
+  "main": "tictactoe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehedihasanlimon/game.git"
+  },
+  "keywords": [
+    "fun"
+  ],
+  "author": "mehedihasanlimon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehedihasanlimon/game/issues"
+  },
+  "homepage": "https://github.com/mehedihasanlimon/game#readme"
+}
